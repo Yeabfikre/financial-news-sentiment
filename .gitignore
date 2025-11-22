@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Data (Never commit large datasets)
+data/
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
