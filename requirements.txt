@@ -5,3 +5,8 @@ seaborn
 textblob
 nltk
 scikit-learn
+
+yfinance  # Useful for fetching stock data if not in CSV
+ta-lib
+pynance
+plotly    # Excellent for interactive financial charts
